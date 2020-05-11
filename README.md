@@ -1,6 +1,6 @@
 # Starting-with-Ansible.
 
-![](images/ansible1.JPG)
+![](images/ansible-1.JPG)
 
 This is a basic ansible script which I created for my local system (windows). To run this ansible playbook (site.yml file) use the standard 
 ansible playbook command with the inventory file "inventory".
