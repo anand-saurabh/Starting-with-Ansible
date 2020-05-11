@@ -1,0 +1,4 @@
+---
+- name: “Play 1”
+  hosts: localhost
+  connection: local
